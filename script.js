@@ -15,7 +15,7 @@ class Animal {
 
 class Cat extends Animal {
   purr() {
-	  super.makeSound();
+	  
     console.log("purr");
   }
 }
